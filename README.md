@@ -1,6 +1,6 @@
 # TWR-App
 
-![MyApp Logo](path/to/your/logo.png)
+![TWR-App Logo](logo.png)
 
 ## Screenshot
 
