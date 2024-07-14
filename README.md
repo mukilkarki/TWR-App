@@ -2,6 +2,8 @@
 
 ![TWR-App Logo](logo.png)
 
+[![Download](https://img.shields.io/badge/download-latest-blue.svg)](https://github.com/mukilkarki/TWR-App/raw/main/TWR-App.apk)
+
 ## Screenshot
 
 ## Splash screen
