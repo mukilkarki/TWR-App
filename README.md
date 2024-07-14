@@ -4,7 +4,7 @@
 
 ## Screenshot
 
-![MyApp Screenshot](path/to/your/screenshot.png)
+![MyApp Screenshot](img/screenshots/main.png)
 
 ## Description
 
