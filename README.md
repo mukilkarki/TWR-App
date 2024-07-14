@@ -4,7 +4,11 @@
 
 ## Screenshot
 
+## Splash screen
 ![MyApp Screenshot](img/screenshots/main.png)
+
+## Create Account screen
+![MyApp Screenshot](img/screenshots/img1.png)
 
 ## Description
 
