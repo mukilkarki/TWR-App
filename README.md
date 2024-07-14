@@ -2,7 +2,7 @@
 
 ![TWR-App Logo](logo.png)
 
-[![Download](https://img.shields.io/badge/download-latest-blue.svg)](https://github.com/mukilkarki/TWR-App/raw/main/TWR-App.apk)
+[![Download](https://github.com/DenverCoder1/readme-download-button-action/archive/1.0.2.zip)](https://github.com/mukilkarki/TWR-App/raw/main/TWR-App.apk)
 
 ## Screenshot
 
