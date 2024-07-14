@@ -10,6 +10,24 @@
 ## Create Account screen
 ![MyApp Screenshot](img/screenshots/img1.png)
 
+## Login screen
+![MyApp Screenshot](img/screenshots/img2.png)
+
+## Setting screen
+![MyApp Screenshot](img/screenshots/img3.png)
+
+## Home screen
+![MyApp Screenshot](img/screenshots/img4.png)
+
+## Join Now! screen
+![MyApp Screenshot](img/screenshots/img5.png)
+
+## User Protection screen
+![MyApp Screenshot](img/screenshots/img6.png)
+
+## User Dashboard screen
+![MyApp Screenshot](img/screenshots/img7.png)
+
 ## Description
 
 TWR-App is a cutting-edge Java application developed using Acodex, designed to offer seamless user authentication with Firebase. It features an intuitive UI/UX enhanced with CSS and animations, providing a smooth and engaging experience for users. The app includes functionalities such as sign-in, sign-up, and form input for storing user details in a Firestore database.
